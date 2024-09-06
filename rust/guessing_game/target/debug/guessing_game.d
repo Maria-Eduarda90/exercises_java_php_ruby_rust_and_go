@@ -1,0 +1,1 @@
+/mnt/c/Users/meyh_mary/Documents/programacao/programas/exercises_java_php_ruby_rust_and_go/rust/guessing_game/target/debug/guessing_game: /mnt/c/Users/meyh_mary/Documents/programacao/programas/exercises_java_php_ruby_rust_and_go/rust/guessing_game/src/main.rs
