@@ -1,0 +1,1 @@
+/mnt/c/Users/meyh_mary/Documents/programacao/programas/exercises_java_php_ruby_rust_and_go/rust/array/target/debug/array: /mnt/c/Users/meyh_mary/Documents/programacao/programas/exercises_java_php_ruby_rust_and_go/rust/array/src/main.rs
